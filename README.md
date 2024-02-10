@@ -1,4 +1,4 @@
-### A highly motivated and passionate geoinformatician with over three years of working experience in the geospatial field.
+### A highly motivated and passionate geoinformatician with over three years of working experience in the geospatial field. My research interests include geographic information science (GIS), remote sensing, cloud computing and data analytics.
 
 <!--
 **Ohm-Np/Ohm-Np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
