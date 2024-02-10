@@ -1,4 +1,4 @@
-### Hi there 👋
+### A highly motivated and passionate geoinformatician with over three years of working experience in the geospatial field.
 
 <!--
 **Ohm-Np/Ohm-Np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
