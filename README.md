@@ -1,5 +1,13 @@
 ### A highly motivated and passionate geoinformatician with over three years of working experience in the geospatial field. My research interests include geographic information science (GIS), remote sensing, cloud computing and data analytics.
 
+## Featured Projects
+
+- [Geospatial Analysis Made Easy: A Beginner’s Guide to RStudio](https://ohm-np.github.io/R_tutorial/)
+- [Geospatial Analysis with Python](https://ohm-np.github.io/Python_tutorial/intro.html)
+- [Population and Density Visualization](https://ohm-np.github.io/LearnJS/visualization.html)
+- [R package - openRspat](https://github.com/Ohm-Np/openRspat)
+- [Masters Thesis - Results](https://ohm-np.github.io/masters-thesis/index.html)
+
 <!--
 **Ohm-Np/Ohm-Np** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
